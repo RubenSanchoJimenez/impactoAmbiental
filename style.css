@@ -45,12 +45,14 @@ footer{
     color: white;
     padding: 50px;
 }
+
+
+/*Personalización*/
+
 a{
     text-decoration: none;
     color: white;
 }
-
-/*Personalización*/
 
 /*Nav*/
 .enlaces_izq{
